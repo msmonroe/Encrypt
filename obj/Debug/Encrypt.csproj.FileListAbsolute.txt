@@ -1,0 +1,10 @@
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\bin\Debug\Roboto\Roboto-Regular.ttf
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\obj\Debug\Encrypt.csprojResolveAssemblyReference.cache
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\obj\Debug\Encrypt.FrmEncrypt.resources
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.Cache
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\obj\Debug\Encrypt.exe
+c:\users\monroem\documents\visual studio 2013\Projects\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
